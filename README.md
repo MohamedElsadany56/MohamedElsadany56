@@ -97,7 +97,7 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 I’m happy to collaborate on:
 
-* Spatiotemporal forecasting (traffic, mobility, energy)
+* Spatiotemporal forecasting (traffic, mobility)
 * Recommender systems for education & productivity
 * Data engineering for ML (batch & streaming)
 
