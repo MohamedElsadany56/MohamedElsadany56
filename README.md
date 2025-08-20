@@ -101,6 +101,6 @@ I’m happy to collaborate on:
 * Recommender systems for education & productivity
 * Data engineering for ML (batch & streaming)
 
-**Reach me:** [Email](elsadany5665@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohamed-goma/)
+**Reach me:** [Email](https://www.elsadany5665@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohamed-goma/)
 
 
