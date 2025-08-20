@@ -5,7 +5,7 @@
 
 # Hi👋 , I am Mohamed Goma, but you can call me Elsadany 
 
-**Senior computer Science Student (BigData) @NU | | 2x ECPC Finalist | Aspiring Data Scientist**
+**Senior computer Science Student (BigData) @NU |2x ECPC Finalist | Aspiring Data Scientist**
 
 I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ reliable models ➜ usable apps. I’m especially interested in **traffic prediction**, **spatiotemporal modeling**,**recommendation systems** for education and productivity and **agriculture technology**.
 
