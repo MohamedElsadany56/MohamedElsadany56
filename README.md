@@ -11,14 +11,6 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 ---
 
-## 🔎 Quick links
-
-* 📄 [CV/Resume](https://drive.google.com/file/d/1KQFPslQfBnA0aDVGKo0Puwcl6xNxJCaR/view?usp=sharing)
-* ✉️ [Email:elsadany5665@gmail.com](https://www.elsadany5665@gmail.com)
-* 💼 [LinkedIn:mohamed-goma](https://www.linkedin.com/in/mohamed-goma/)
-
----
-
 ## What I’m working on
 
 * 📚 **Graduation Project – Egyptian English AI Platform**
@@ -40,21 +32,104 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 ---
 
-## 🛠Tech Stack
+### 🛠 Tech Stack  
 
-**Languages:** Python, SQL, C/C++, C#, Bash
+<div align="center">
 
-**ML/DS:** PyTorch, scikit‑learn, XGBoost, LightGBM, CatBoost, Pandas, NumPy, Matplotlib
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/><br/>
+      <sub><b>C/C++</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"/><br/>
+      <sub><b>Bash</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn"/><br/>
+      <sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachehadoop.svg" width="50" alt="Hadoop"/><br/>
+      <sub><b>Hadoop</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" alt="Spark"/><br/>
+      <sub><b>Spark (PySpark)</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django"/><br/>
+      <sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/MohamedElsadany56/MohamedElsadany56/blob/main/rest-api-icon.svg" width="50" alt="REST API"/><br/>
+      <sub><b>REST API</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter"/><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br/>
+      <sub><b>Linux (Ubuntu)</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="github-mark-white.svg" width="50" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
-**Deep Learning:** LSTM/GRU, sequence models
-
-**Big Data & Pipelines:** Hadoop (HDFS/MapReduce), Spark (PySpark), Docker
-
-**MLOps:** reproducible envs (Docker), CI/CD
-
-**Web:** Django , REST, MySQL, HTML , CSS 
-
-**Tools:** Git/GitHub, Jupyter, Linux (Ubuntu), VS Code
 
 ---
 
@@ -110,17 +185,47 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 <p align="center">
   <img src="https://github.com/MohamedElsadany56/MohamedElsadany56/blob/main/nucpa.png" alt="nucpa" width="600" style="margin: 10px;" />
 </p>
+
 ---
 
 
-## 🤝 Open to collaborate
 
-I’m happy to collaborate on:
 
-* Spatiotemporal forecasting (traffic, mobility)
-* Recommender systems for education & productivity
-* Data engineering for ML (batch & streaming)
+### 📫 Connect With Me  
 
-**Reach me:** [Email](https://www.elsadany5665@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohamed-goma/)
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="mailto:elsadany5665@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/><br/>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/mohamed-goma/">
+        <img src="linkedin.svg" width="40" alt="LinkedIn"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://drive.google.com/file/d/1KQFPslQfBnA0aDVGKo0Puwcl6xNxJCaR/view?usp=sharing">
+        <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="40" alt="CV"/><br/>
+        <sub><b>CV</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/MohamedElsadany56">
+        <img src="github-mark-white.svg" width="40" alt="GitHub"/><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 
