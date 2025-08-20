@@ -14,7 +14,7 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 ## 🔎 Quick links
 
 * 📄 [CV/Resume](https://drive.google.com/file/d/1KQFPslQfBnA0aDVGKo0Puwcl6xNxJCaR/view?usp=sharing)
-* ✉️ [Email:elsadany5665@gmail.com]
+* ✉️ [Email:elsadany5665@gmail.com](https://www.elsadany5665@gmail.com)
 * 💼 [LinkedIn:mohamed-goma](https://www.linkedin.com/in/mohamed-goma/)
 
 ---
