@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="me.png" alt="Elsadany" width="200" height="200" style="clip-path: circle(); border: 4px solid #333;" />
-</p>
-
-
 # Hi👋 , I am Mohamed Goma, but you can call me Elsadany 
 
 **Senior computer Science Student (BigData) @NU |2x ECPC Finalist | Aspiring Data Scientist**
