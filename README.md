@@ -1,4 +1,4 @@
-# Hi👋 , I am Mohamed Goma, but you can call me Elsadany 
+# Hi , I am Mohamed Goma, but you can call me Elsadany 
 
 **Senior computer Science Student (BigData) @NU |2x ECPC Finalist | Aspiring Data Scientist**
 
@@ -8,13 +8,13 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 ## What I’m working on
 
-* 📚 **Graduation Project – Egyptian English AI Platform**
+*  **Graduation Project – Egyptian English AI Platform**
   Enhancing English fluency for Egyptian learners through an AI‑driven platform that provides assessment, recommendations, and practice tools.
 
-* 🌱 **Garden AI Management System**
+*  **Garden AI Management System**
   Smart agriculture system including **automated irrigation**, **fertilization scheduling**, and **plant disease detection** with AI vision.
 
-* 💱 **Money Change App for Egyptian Transportation**
+*  **Money Change App for Egyptian Transportation**
   Mobile app to simplify **small change transactions** for Egyptian passengers, improving day‑to‑day commuting.
 
 ---
@@ -27,7 +27,7 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 ---
 
-### 🛠 Tech Stack  
+###  Tech Stack  
 
 <div align="center">
 
