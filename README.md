@@ -8,14 +8,13 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 ## What I’m working on
 
-*  **Graduation Project – Egyptian English AI Platform**
+*  **Graduation Project – Speakx Egyptian English AI Platform**
   Enhancing English fluency for Egyptian learners through an AI‑driven platform that provides assessment, recommendations, and practice tools.
 
 *  **Garden AI Management System**
   Smart agriculture system including **automated irrigation**, **fertilization scheduling**, and **plant disease detection** with AI vision.
 
-*  **Money Change App for Egyptian Transportation**
-  Mobile app to simplify **small change transactions** for Egyptian passengers, improving day‑to‑day commuting.
+
 
 ---
 
