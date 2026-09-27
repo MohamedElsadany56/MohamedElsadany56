@@ -8,11 +8,10 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 ## What I’m working on
 
-*  **Graduation Project – Speakx Egyptian English AI Platform**
-  Enhancing English fluency for Egyptian learners through an AI‑driven platform that provides assessment, recommendations, and practice tools.
+*  **HealthCare App – BelMiad**
+  An offline-first health-management application designed for patients family caregivers and private nurses.
 
-*  **Garden AI Management System**
-  Smart agriculture system including **automated irrigation**, **fertilization scheduling**, and **plant disease detection** with AI vision.
+
 
 
 
