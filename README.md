@@ -1,6 +1,6 @@
 # Hi , I am Mohamed Goma, but you can call me Elsadany 
 
-**Senior computer Science Student (BigData) @NU |2x ECPC Finalist | Aspiring Data Scientist**
+**Fresh computer Science graduate (BigData) from NU |2x ECPC Finalist | Aspiring Data Scientist**
 
 I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ reliable models ➜ usable apps. I’m especially interested in **traffic prediction**, **spatiotemporal modeling**,**recommendation systems** for education and productivity and **agriculture technology**.
 
@@ -19,7 +19,6 @@ I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ relia
 
 ## Highlights
 
-* **Co‑author** of *“A Comparative Study of Machine Learning Techniques for Traffic Prediction Incorporating Weather Conditions”* (2025). *(IEEE format)*
 * Built big‑data pipelines with **Hadoop + Docker**, processed **4M+ rows**, and shipped reproducible notebooks & dashboards.
 * Cross‑platform delivery: backend (Django) and lightweight web tools.
 
