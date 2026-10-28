@@ -68,7 +68,7 @@ I turn raw business and operational data into clean models, clear dashboards and
 - Analyzed participants by university, year and team to show sponsors the programming community's reach.
 
 <p align="center">
-  <img src="nucpa.png" alt="NU Community Dashboard" width="600" />
+  <img src="\images\nu-community-dashboard.png" alt="NU Community Dashboard" width="600" />
 </p>
 
 <details>
