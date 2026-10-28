@@ -49,35 +49,66 @@ I turn raw business and operational data into clean models, clear dashboards and
 - Answers which products drive revenue and margin, whether promotions add profit, and which regions deserve investment.
 - Drillthrough pages, custom tooltips, Azure Maps and a custom JSON theme.
 
+<p align="center">
+  <img src="images/pharmacy-dashboard.png" alt="Pharmacy Sales Executive Overview dashboard in Power BI" width="700" />
+</p>
+
 ### MaintenX · Predictive Maintenance Analytics (DEPI capstone)
 [Live dashboard](https://maintenx-app-egy.azurewebsites.net/ui) · [Repo](https://github.com/MohamedElsadany56/MaintenX)
 - Merged **5 data sources (876K+ hourly sensor readings, 100 machines)** into one clean time-series dataset.
 - EDA and Z-score anomaly detection showed anomalies cluster in the **48 hours before failure**.
 - Benchmarked 5 models; CatBoost reached **92.5% recall, 86% precision**, chosen over a stacking model whose 8% precision would cause alert fatigue.
 
-### Retail Data Warehouse & Market Basket Analysis · SQL / BI
+<p align="center">
+  <img src="images/maintenx-dashboard.png" alt="MaintenX dashboard showing a 99.9% predicted failure of component 4" width="650" />
+</p>
+
+### Retail Data Warehouse & Market Basket Analysis · SQL / Power BI
+5-page Retail Intelligence Dashboard: **$3.89M sales, 156K baskets, 2K active households**.
 - Star-schema warehouse (transactions, products, customers, stores, payments, dates) with staging and analytical layers.
-- BI views on revenue distribution, basket size and product frequency; market basket analysis for cross-selling and inventory.
+- Pages on executive KPIs, sales & product performance, customer segmentation, campaigns & coupons, and holiday impact.
+- Market basket analysis to find product associations for cross-selling and inventory planning.
+
+<p align="center">
+  <img src="images/retail-dashboard.png" alt="Retail Intelligence Dashboard executive overview in Power BI" width="700" />
+</p>
 
 ### Traffic Forecasting, New York City · Python / LightGBM
 [Repo](https://github.com/MohamedElsadany56/Traffic_Predictor)
 - Combined NYC DOT traffic, weather and collision data with **60+ engineered features**.
 - Cut RMSE from **5.89 (baseline) to 1.08**, an approach transferable to demand forecasting.
 
+<p align="center">
+  <img src="images/traffic-speed-by-hour.png" alt="Average traffic speed by hour of day" width="550" />
+</p>
+
 ### NU Community Dashboard · EDA
 - Analyzed participants by university, year and team to show sponsors the programming community's reach.
 
 <p align="center">
-  <img src="nucpa.png" alt="NU Community Dashboard" width="600" />
+  <img src="images/nu-community-dashboard.png" alt="NU Community Dashboard" width="600" />
 </p>
 
 <details>
 <summary><b>More projects</b></summary>
 
-- **[SpeakX](https://github.com/MohamedElsadany56/SpeakX)**: AI English-fluency platform (graduation project); PostgreSQL data model and FastAPI services for assessments and progress tracking.
-- **[JobFinder](https://github.com/MohamedElsadany56/JobFinder)**: accessible job platform for people with disabilities, 1st Place at the Undergraduate Research Forum.
-- **[BelMiad](https://github.com/MohamedElsadany56/BelMiad)**: offline-first health-management app for patients, caregivers and nurses.
-- **Flood Impact Analysis, Myanmar 2019**: nighttime-light and internet-speed data to model infrastructure recovery (R² 0.63).
+#### [SpeakX](https://github.com/MohamedElsadany56/SpeakX) · Graduation Project
+AI English-fluency platform; PostgreSQL data model and FastAPI services for assessments and progress tracking.
+
+<p align="center"><img src="images/speakx.png" alt="SpeakX sign-in screen" width="220" /></p>
+
+#### [JobFinder](https://github.com/MohamedElsadany56/JobFinder) · 1st Place, Undergraduate Research Forum
+Accessible job platform connecting people with disabilities to micro-jobs.
+
+<p align="center"><img src="images/jobfinder.png" alt="JobFinder home page" width="600" /></p>
+
+#### [BelMiad](https://github.com/MohamedElsadany56/BelMiad)
+Offline-first health-management app for patients, caregivers and nurses: doses, stock, reports and vitals.
+
+<p align="center"><img src="images/belmiad.png" alt="BelMiad app screens: today, medicines, reports, vitals" width="700" /></p>
+
+#### Flood Impact Analysis, Myanmar 2019
+Nighttime-light and internet-speed data to model infrastructure recovery (R² 0.63).
 
 </details>
 
