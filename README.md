@@ -1,223 +1,92 @@
-# Hi , I am Mohamed Goma, but you can call me Elsadany 
+# Hi, I'm Mohamed Goma (Elsadany) 👋
 
-**Fresh computer Science graduate (BigData) from NU |2x ECPC Finalist | Aspiring Data Scientist**
+### Data Analyst · SQL · Python · Power BI
 
-I build ML systems end‑to‑end: from messy data ➜ clean pipelines ➜ reliable models ➜ usable apps. I’m especially interested in **traffic prediction**, **spatiotemporal modeling**,**recommendation systems** for education and productivity and **agriculture technology**.
+Computer Science graduate (Big Data) from **Nile University** and **DEPI** AI & Data Science trainee (Microsoft track).
+I turn raw business and operational data into clean models, clear dashboards and decisions people can act on.
 
----
-
-## What I’m working on
-
-*  **HealthCare App – BelMiad**
-  An offline-first health-management application designed for patients family caregivers and private nurses.
-
-
-
-
+🏆 1st Place, 19th Undergraduate Research Forum · 🥇 2× ECPC Finalist · 🎓 Dean's & President's Honor
 
 ---
 
-## Highlights
+## 🧰 Toolkit
 
-* Built big‑data pipelines with **Hadoop + Docker**, processed **4M+ rows**, and shipped reproducible notebooks & dashboards.
-* Cross‑platform delivery: backend (Django) and lightweight web tools.
+**Analysis & BI**
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
 
----
+**Data Engineering & Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star_Schema_%26_ETL-555555?style=flat-square)
+![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
-###  Tech Stack  
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/><br/>
-      <sub><b>C/C++</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/><br/>
-      <sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"/><br/>
-      <sub><b>Bash</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/><br/>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"/><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn"/><br/>
-      <sub><b>Scikit-learn</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachehadoop.svg" width="50" alt="Hadoop"/><br/>
-      <sub><b>Hadoop</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" alt="Spark"/><br/>
-      <sub><b>Spark (PySpark)</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django"/><br/>
-      <sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://github.com/MohamedElsadany56/MohamedElsadany56/blob/main/rest-api-icon.svg" width="50" alt="REST API"/><br/>
-      <sub><b>REST API</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/><br/>
-      <sub><b>HTML</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/><br/>
-      <sub><b>CSS</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter"/><br/>
-      <sub><b>Jupyter</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br/>
-      <sub><b>Linux (Ubuntu)</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="github-mark-white.svg" width="50" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
-</div>
-
+**Machine Learning & Tools**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Featured Projects
+## 📊 Featured Projects
 
-### 1) JobFinder
+### Pharmacy Sales Analytics Dashboard · Power BI
+6-page executive dashboard for a European pharmacy retailer: **€8.63M revenue, €2.42M margin, 445K+ units across 8 countries**.
+- Star-schema model built in Power Query; DAX time intelligence (YoY, MoM, YTD, MTD) with dynamic KPI cards.
+- Answers which products drive revenue and margin, whether promotions add profit, and which regions deserve investment.
+- Drillthrough pages, custom tooltips, Azure Maps and a custom JSON theme.
 
-**Keywords:** community platform, accessibility, empowerment  
+### MaintenX · Predictive Maintenance Analytics (DEPI capstone)
+[Live dashboard](https://maintenx-app-egy.azurewebsites.net/ui) · [Repo](https://github.com/MohamedElsadany56/MaintenX)
+- Merged **5 data sources (876K+ hourly sensor readings, 100 machines)** into one clean time-series dataset.
+- EDA and Z-score anomaly detection showed anomalies cluster in the **48 hours before failure**.
+- Benchmarked 5 models; CatBoost reached **92.5% recall, 86% precision**, chosen over a stacking model whose 8% precision would cause alert fatigue.
 
-* A **community-driven platform** connecting small job seekers and givers.  
-* Focused on empowering **people with disabilities** by enabling micro-jobs.  
-**Repo:** [JobFinder](https://github.com/MohamedElsadany56/JobFinder)  
+### Retail Data Warehouse & Market Basket Analysis · SQL / BI
+- Star-schema warehouse (transactions, products, customers, stores, payments, dates) with staging and analytical layers.
+- BI views on revenue distribution, basket size and product frequency; market basket analysis for cross-selling and inventory.
+
+### Traffic Forecasting, New York City · Python / LightGBM
+[Repo](https://github.com/MohamedElsadany56/Traffic_Predictor)
+- Combined NYC DOT traffic, weather and collision data with **60+ engineered features**.
+- Cut RMSE from **5.89 (baseline) to 1.08**, an approach transferable to demand forecasting.
+
+### NU Community Dashboard · EDA
+- Analyzed participants by university, year and team to show sponsors the programming community's reach.
 
 <p align="center">
-  <img src="https://github.com/MohamedElsadany56/MohamedElsadany56/blob/main/jobfinder.png" alt="JobFinder" width="600" style="margin: 10px;" />
+  <img src="nucpa.png" alt="NU Community Dashboard" width="600" />
 </p>
 
----
+<details>
+<summary><b>More projects</b></summary>
 
-### 2) Traffic Predictor
+- **[SpeakX](https://github.com/MohamedElsadany56/SpeakX)**: AI English-fluency platform (graduation project); PostgreSQL data model and FastAPI services for assessments and progress tracking.
+- **[JobFinder](https://github.com/MohamedElsadany56/JobFinder)**: accessible job platform for people with disabilities, 1st Place at the Undergraduate Research Forum.
+- **[BelMiad](https://github.com/MohamedElsadany56/BelMiad)**: offline-first health-management app for patients, caregivers and nurses.
+- **Flood Impact Analysis, Myanmar 2019**: nighttime-light and internet-speed data to model infrastructure recovery (R² 0.63).
 
-**Keywords:** traffic prediction, weather fusion, event scraping  
-
-* Machine learning model predicting New York City traffic (Queens).  
-* Uses traffic + weather data and social media scraping.  
-**Repo:** [Traffic Predictor](https://github.com/MohamedElsadany56/Traffic_Predictor)  
-
-<p align="center">
-  <img src="https://github.com/MohamedElsadany56/Traffic_Predictor/blob/main/traffic.jpg" alt="Traffic Predictor" width="600" style="margin: 10px;" />
-</p>
+</details>
 
 ---
 
-### 3) pstree (xv6-riscv)
+## 📫 Let's connect
 
-**Keywords:** operating systems, xv6, system call  
+Open to **Data Analyst** and **BI Analyst** roles.
 
-* Enhancement of xv6-riscv implementing a `pstree` syscall.  
-* Visualizes the process hierarchy in ASCII, inspired by Linux’s `pstree` command.  
-**Repo:** [Pstree](https://github.com/MohamedElsadany56/pstree_xv6)  
-
-<p align="center">
-  <img src="https://github.com/MohamedElsadany56/pstree_xv6/raw/main/snapshots/orphan.png" alt="pstree" width="400" style="margin: 10px;" />
-</p>
-
----
-
-### 4) NU-Community-Dashboard
-
-**Keywords:** dashboards, EDA, sponsor insights, competition analytics  
-
-* Analyzes distribution of universities, years, NU-affiliated teams; helps attract sponsors.  
-<p align="center">
-  <img src="https://github.com/MohamedElsadany56/MohamedElsadany56/blob/main/nucpa.png" alt="nucpa" width="600" style="margin: 10px;" />
-</p>
-
----
-
-
-
-
-### 📫 Connect With Me  
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <a href="mailto:elsadany5665@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/><br/>
-        <sub><b>Email</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/mohamed-goma/">
-        <img src="linkedin.svg" width="40" alt="LinkedIn"/><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://drive.google.com/file/d/1KQFPslQfBnA0aDVGKo0Puwcl6xNxJCaR/view?usp=sharing">
-        <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="40" alt="CV"/><br/>
-        <sub><b>CV</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/MohamedElsadany56">
-        <img src="github-mark-white.svg" width="40" alt="GitHub"/><br/>
-        <sub><b>GitHub</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--goma-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohamed-goma/)
+[![Email](https://img.shields.io/badge/Email-elsadany5665@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsadany5665@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KQFPslQfBnA0aDVGKo0Puwcl6xNxJCaR/view?usp=sharing)
