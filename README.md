@@ -120,4 +120,4 @@ Open to **Data Analyst** and **BI Analyst** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--goma-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohamed-goma/)
 [![Email](https://img.shields.io/badge/Email-elsadany5665@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsadany5665@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KQFPslQfBnA0aDVGKo0Puwcl6xNxJCaR/view?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rfs5HLJTqCsMH_Z5MEA2TbEX_9J1SfvP/view?usp=sharing)
